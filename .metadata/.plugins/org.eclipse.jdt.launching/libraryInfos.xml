@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre" version="1.7.0_67">
+<bootpath>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\resources.jar"/>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\rt.jar"/>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\sunrsasign.jar"/>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\jsse.jar"/>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\jce.jar"/>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\charsets.jar"/>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\jfr.jar"/>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\ext"/>
+<entry path="C:\windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\api\jdk\jdk-7windows-x64(www.greenxf.com)\intalljre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
