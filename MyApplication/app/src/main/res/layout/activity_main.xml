@@ -41,4 +41,16 @@
         android:text="语音识别"
         android:textColor="@android:color/white"
         android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_dictation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:background="@android:color/holo_blue_light"
+        android:gravity="center"
+        android:padding="10dip"
+        android:text="语音识别"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
 </LinearLayout>

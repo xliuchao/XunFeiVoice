@@ -19,6 +19,7 @@
         <activity android:name=".IatDemo"></activity>
         <activity android:name=".TtsDemo"></activity>
         <activity android:name=".AsrDemo"></activity>
+        <activity android:name=".DictationDemo"></activity>
         <activity android:name=".settings.IatSettings"></activity>
         <activity android:name=".settings.TtsSettings"></activity>
         <!-- 移动统计分析 -->

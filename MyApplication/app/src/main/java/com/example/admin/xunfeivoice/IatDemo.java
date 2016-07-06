@@ -163,8 +163,7 @@ public class IatDemo extends Activity implements OnClickListener {
 			mIatResults.clear();
 			// 设置参数
 			setParam();
-			boolean isShowDialog = mSharedPreferences.getBoolean(
-					getString(R.string.pref_key_iat_show), true);
+			boolean isShowDialog = mSharedPreferences.getBoolean(getString(R.string.pref_key_iat_show), true);
 			if (isShowDialog) {
 				// 显示听写对话框
 				mIatDialog.setListener(mRecognizerDialogListener);

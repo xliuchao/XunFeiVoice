@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         ButterKnife.bind(this);
     }
 
-    @OnClick({R.id.tv_iat, R.id.tv_tts,R.id.tv_isr})
+    @OnClick({R.id.tv_iat, R.id.tv_tts,R.id.tv_isr,R.id.tv_dictation})
     @Override
     public void onClick(View view) {
         Log.e("print","tts:"+tts.toString());
@@ -37,6 +37,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.tv_isr:
                 startActivity(new Intent(this, AsrDemo.class));
+                break;
+            case R.id.tv_dictation:
+                startActivity(new Intent(this, DictationDemo.class));
                 break;
         }
     }
